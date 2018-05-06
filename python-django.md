@@ -6,6 +6,7 @@
 - [Learn Python the Hard Way](http://learnpythonthehardway.org) - Zed Shaw 
 - [Test-Driven Development with Python](http://www.obeythetestinggoat.com/) - Harry Percival
 - [Think Python'](https://interactivepython.org/courselib/static/thinkcspy/index.html) - Brad Miller, David Ranum
+- [Code Club - Python](https://codeclubprojects.org/en-GB/python/) - Code Club
 
 ## Django
 - [Django Girls Tutorial](http://tutorial.djangogirls.org/en/)
